@@ -8,7 +8,7 @@ The dataset (`sections_desc.csv`) contains details of IPC sections, including:
 - **Title**: The name of the IPC section.
 - **Link**: A reference URL for further details
 - **Section**: The IPC section number.
-- **Description**: A brief explanation of the IPC section.
+- **Description**: A brief explanation of the IPC section
 
 ### Sample Data
 | Title                                          | Link                                    | Section   | Description |
