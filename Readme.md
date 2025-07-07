@@ -1,4 +1,5 @@
 # IPC Query Processing System
+![image](https://github.com/user-attachments/assets/20a362b6-4794-4832-bb6d-1040aa996435)
 
 ## Overview
 This project utilizes a dataset of Indian Penal Code (IPC) sections to provide relevant legal references based on user queries. It employs Google Gemini API for natural language processing (NLP) to summarize user input and match it to the appropriate IPC section.
